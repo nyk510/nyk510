@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyk510&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-More Info 👀 [https://focused-hypatia-f2266f.netlify.app/](https://focused-hypatia-f2266f.netlify.app/)
+More Info 👀 [https://nyk510.github.io/portfolio/](https://nyk510.github.io/portfolio/)
